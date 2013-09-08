@@ -73,10 +73,6 @@
 		099FC77B1749A02400F86045 /* white_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 099FC7451749A02300F86045 /* white_@2x.png */; };
 		099FC77C1749A02400F86045 /* white_@2x22x.png in Resources */ = {isa = PBXBuildFile; fileRef = 099FC7461749A02300F86045 /* white_@2x22x.png */; };
 		099FC77D1749A02400F86045 /* white_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 099FC7471749A02300F86045 /* white_normal.png */; };
-		099FC7831749A04200F86045 /* Signika-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 099FC77E1749A04200F86045 /* Signika-Bold.otf */; };
-		099FC7841749A04200F86045 /* Signika-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 099FC77F1749A04200F86045 /* Signika-Light.otf */; };
-		099FC7851749A04200F86045 /* Signika-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 099FC7801749A04200F86045 /* Signika-Regular.otf */; };
-		099FC7861749A04200F86045 /* Signika-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 099FC7811749A04200F86045 /* Signika-Semibold.otf */; };
 		099FC7881749B7F900F86045 /* Play button.png in Resources */ = {isa = PBXBuildFile; fileRef = 099FC7871749B7F900F86045 /* Play button.png */; };
 		099FC78E1749BB3A00F86045 /* CHMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 099FC78D1749BB3900F86045 /* CHMenuViewController.m */; };
 		099FC7901749CDFB00F86045 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 099FC78F1749CDFB00F86045 /* Parse.framework */; };
@@ -95,6 +91,7 @@
 		099FC7AB1749D77E00F86045 /* CHMenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 099FC7AA1749D77D00F86045 /* CHMenuCell.m */; };
 		09E53FD617A119A000B458B8 /* LBYouTubeExtractor.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E53FD317A119A000B458B8 /* LBYouTubeExtractor.m */; };
 		09E53FD717A119A000B458B8 /* LBYouTubePlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E53FD517A119A000B458B8 /* LBYouTubePlayerViewController.m */; };
+		EF3CACFC17DC498C006CB547 /* CHCaptureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF3CACFA17DC498C006CB547 /* CHCaptureViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -170,10 +167,6 @@
 		099FC7451749A02300F86045 /* white_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "white_@2x.png"; sourceTree = "<group>"; };
 		099FC7461749A02300F86045 /* white_@2x22x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "white_@2x22x.png"; sourceTree = "<group>"; };
 		099FC7471749A02300F86045 /* white_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white_normal.png; sourceTree = "<group>"; };
-		099FC77E1749A04200F86045 /* Signika-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Signika-Bold.otf"; sourceTree = "<group>"; };
-		099FC77F1749A04200F86045 /* Signika-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Signika-Light.otf"; sourceTree = "<group>"; };
-		099FC7801749A04200F86045 /* Signika-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Signika-Regular.otf"; sourceTree = "<group>"; };
-		099FC7811749A04200F86045 /* Signika-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Signika-Semibold.otf"; sourceTree = "<group>"; };
 		099FC7871749B7F900F86045 /* Play button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Play button.png"; sourceTree = "<group>"; };
 		099FC78C1749BB3900F86045 /* CHMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHMenuViewController.h; sourceTree = "<group>"; };
 		099FC78D1749BB3900F86045 /* CHMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHMenuViewController.m; sourceTree = "<group>"; };
@@ -197,6 +190,12 @@
 		09E53FD317A119A000B458B8 /* LBYouTubeExtractor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LBYouTubeExtractor.m; sourceTree = "<group>"; };
 		09E53FD417A119A000B458B8 /* LBYouTubePlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LBYouTubePlayerViewController.h; sourceTree = "<group>"; };
 		09E53FD517A119A000B458B8 /* LBYouTubePlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LBYouTubePlayerViewController.m; sourceTree = "<group>"; };
+		EF097E8E17DC3D8200BD00B8 /* Signika-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Signika-Semibold.otf"; path = "FONT/Signika-Semibold.otf"; sourceTree = SOURCE_ROOT; };
+		EF097E8F17DC3D8200BD00B8 /* Signika-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Signika-Regular.otf"; path = "FONT/Signika-Regular.otf"; sourceTree = SOURCE_ROOT; };
+		EF097E9017DC3D8200BD00B8 /* Signika-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Signika-Light.otf"; path = "FONT/Signika-Light.otf"; sourceTree = SOURCE_ROOT; };
+		EF097E9117DC3D8200BD00B8 /* Signika-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Signika-Bold.otf"; path = "FONT/Signika-Bold.otf"; sourceTree = SOURCE_ROOT; };
+		EF3CACF917DC498C006CB547 /* CHCaptureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHCaptureViewController.h; sourceTree = "<group>"; };
+		EF3CACFA17DC498C006CB547 /* CHCaptureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHCaptureViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -290,6 +289,8 @@
 				099FC6F117499F7C00F86045 /* CHAppDelegate.m */,
 				099FC6F917499F7C00F86045 /* MainStoryboard.storyboard */,
 				09686D6E174B56C10076F14D /* CHPlayVideoViewController.h */,
+				EF3CACF917DC498C006CB547 /* CHCaptureViewController.h */,
+				EF3CACFA17DC498C006CB547 /* CHCaptureViewController.m */,
 				09686D6F174B56C10076F14D /* CHPlayVideoViewController.m */,
 				099FC7A91749D77D00F86045 /* CHMenuCell.h */,
 				099FC7AA1749D77D00F86045 /* CHMenuCell.m */,
@@ -420,10 +421,10 @@
 		099FC7821749A04200F86045 /* FONT */ = {
 			isa = PBXGroup;
 			children = (
-				099FC77E1749A04200F86045 /* Signika-Bold.otf */,
-				099FC77F1749A04200F86045 /* Signika-Light.otf */,
-				099FC7801749A04200F86045 /* Signika-Regular.otf */,
-				099FC7811749A04200F86045 /* Signika-Semibold.otf */,
+				EF097E8E17DC3D8200BD00B8 /* Signika-Semibold.otf */,
+				EF097E8F17DC3D8200BD00B8 /* Signika-Regular.otf */,
+				EF097E9017DC3D8200BD00B8 /* Signika-Light.otf */,
+				EF097E9117DC3D8200BD00B8 /* Signika-Bold.otf */,
 			);
 			name = FONT;
 			path = ../FONT;
@@ -537,10 +538,6 @@
 				099FC77B1749A02400F86045 /* white_@2x.png in Resources */,
 				099FC77C1749A02400F86045 /* white_@2x22x.png in Resources */,
 				099FC77D1749A02400F86045 /* white_normal.png in Resources */,
-				099FC7831749A04200F86045 /* Signika-Bold.otf in Resources */,
-				099FC7841749A04200F86045 /* Signika-Light.otf in Resources */,
-				099FC7851749A04200F86045 /* Signika-Regular.otf in Resources */,
-				099FC7861749A04200F86045 /* Signika-Semibold.otf in Resources */,
 				099FC7881749B7F900F86045 /* Play button.png in Resources */,
 				095D77E017571026000BC926 /* white_glass_to_activate.png in Resources */,
 				095D77E217571031000BC926 /* Video_frame.png in Resources */,
@@ -562,6 +559,7 @@
 				09686D70174B56C10076F14D /* CHPlayVideoViewController.m in Sources */,
 				09E53FD617A119A000B458B8 /* LBYouTubeExtractor.m in Sources */,
 				09E53FD717A119A000B458B8 /* LBYouTubePlayerViewController.m in Sources */,
+				EF3CACFC17DC498C006CB547 /* CHCaptureViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -653,6 +651,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Charades/Charades-Prefix.pch";
 				INFOPLIST_FILE = "Charades/Charades-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -668,6 +667,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Charades/Charades-Prefix.pch";
 				INFOPLIST_FILE = "Charades/Charades-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
